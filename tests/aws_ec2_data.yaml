@@ -1,0 +1,17 @@
+instance_id: i-0c946aa8feb965402
+
+network_id: eni-0c9027c83c8c6039a
+
+expected_instance_public_ip: 3.121.183.96
+
+expected_instance_image: ami-047e03b8591f2d48a
+
+expected_allowed_ports:
+  - 22
+  - 5000
+
+expected_tag_name: Name
+
+expected_tag_text: onboarding_qa_varyvonchyk_p_instance
+
+expected_network_interface_ip: 172.31.21.181
